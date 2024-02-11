@@ -4,11 +4,5 @@
 444444444
 55555555555
 6666666
-some content 
-first change
-dlete 9-10 for feature changes
-first commit in feature
-second commit in feature
-adding some lines for the main commit and see it
-make changes in feature branch
+adding change 1 in main
 
